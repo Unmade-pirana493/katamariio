@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "com.github.tacowasa059.katamariio.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "KatamariIO.refmap.json",
+  "refmap": "katamariio.refmap.json",
   "mixins": [
     "common.BlockCollisionsMixin",
     "common.EntityMixin",
